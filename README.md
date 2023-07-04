@@ -21,3 +21,12 @@ My methods:
 4) Analysis was to simply calculate the win/loss ratio by dividing the win column by loss column
 5) Created graphs for total combined win/loss ratio by gym and another graph with the ratio and wins and losses indiviudally by grouped by team.
 
+Total ratio
+
+![Total ratio](assets/
+TotalRatio.png)
+
+Total wins and losses
+
+![Total win/loss ratio](assets/
+TotalWinLossRatio.png)
