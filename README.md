@@ -23,10 +23,8 @@ My methods:
 
 Total ratio
 
-![Total ratio](assets/
-TotalRatio.png)
+![Total ratio](assets/TotalRatio.png)
 
 Total wins and losses
 
-![Total win/loss ratio](assets/
-TotalWinLossRatio.png)
+![Total win/loss ratio](assets/TotalWinLossRatio.png)
